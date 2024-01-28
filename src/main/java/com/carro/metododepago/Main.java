@@ -50,6 +50,7 @@ public class Main {
                     System.out.println("Opción inválida");
             }
         }
+        sc.close(); 
     }
 }
 
